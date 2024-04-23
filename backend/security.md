@@ -1,0 +1,1 @@
+# Discussion on securing the channel and using SSL/TLS

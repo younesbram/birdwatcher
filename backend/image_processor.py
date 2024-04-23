@@ -1,0 +1,1 @@
+# Python code to integrate with Hugging Face model and process images
